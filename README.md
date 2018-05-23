@@ -1,2 +1,2 @@
-# stopwatch
+# Stopwatch
 VHDL stopwatch
