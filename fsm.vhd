@@ -57,4 +57,4 @@ BEGIN
 				'0' WHEN nocountreset,
 				'1' WHEN count,
 				'1' WHEN OTHERS;
-end behavior;
+end Behavior;
